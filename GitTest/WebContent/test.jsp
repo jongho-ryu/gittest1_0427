@@ -10,7 +10,8 @@
 <h1>Test1.jsp</h1>
     gittest.jsp
     이거 참 모르겠네
-<h1>Test1.jsp</h1>
-11
+
+<h2>Test1.jsp</h2>
+
 </body>
 </html>
