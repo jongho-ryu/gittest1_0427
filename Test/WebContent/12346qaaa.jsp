@@ -7,7 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-에베베ㅔ베벱
+2020/05/01
 
+금주 결석자 
+
+김기일
+김나은
+
+ㅋㅋㅋ
 </body>
 </html>
